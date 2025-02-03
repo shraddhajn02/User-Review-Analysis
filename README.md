@@ -62,3 +62,21 @@ Insights: Provides qualitative insights into employer feedback.
 > For Employers: Helps refine job descriptions and hiring expectations.
 
 > For Institutions: Informs curriculum updates to align with industry needs.
+
+🔹 **Top Skills Used:**
+- 🐍 Python (pandas, re)
+- 📊 Data Analysis & Cleaning (pandas)
+- 📝 Text Processing & NLP (Regular Expressions, Sentiment Analysis with NLTK VADER/SentiWordNet)
+- 🎨 Data Visualization (matplotlib, Tableau)
+- 📑 Jupyter Notebooks
+- 🔗 GitHub Collaboration
+
+🔍 **Libraries Used:**
+- `pandas` – Data manipulation and analysis
+- `re` – Regular expressions for text processing
+- `matplotlib` – Data visualization
+- `nltk` – Natural Language Processing for text mining and sentiment analysis (VADER/SentiWordNet)
+
+📊 **Tableau Visualization:**  
+🔗 **[View the interactive dashboard here](https://public.tableau.com/app/profile/shraddha.jain1448/viz/Project1_17017394033620/Dashboard1#1)**  
+
